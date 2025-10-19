@@ -1,0 +1,35 @@
+body {
+    position: fixed;
+    background-image: url(https://avatars.mds.yandex.net/i?id=52aede9926b342ddc4a2dad234704e89_l-4936126-images-thumbs&n=13);
+}
+
+.aro {
+    display: inline-block;
+    box-shadow: 0 0 60px rgba(0, 255, 247, 0.6), 0 0 15px rgba(0, 255, 247, 0.6);
+}
+
+.main {
+    position: relative;
+    left: 510px;
+    top: 140px;
+}
+
+.text {
+    color: aqua;
+    position: relative;
+    left: 360px;
+    bottom: 320px;
+    box-shadow: 0 0 20px rgba(rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255), alpha);
+}
+
+.neon {
+    color: white;
+    font-size: 50px;
+    position: relative;
+    bottom: 620px;
+    right: 340px;
+    text-shadow:
+    0 0 10px aqua,
+    0 0 20px aqua;
+
+}
